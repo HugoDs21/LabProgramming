@@ -17,6 +17,7 @@ char skip(FILE *fp){
 }
 
 BOOL check_word(FILE *fp){
+
   return TRUE;
 }
 
