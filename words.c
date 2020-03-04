@@ -43,4 +43,3 @@ int main(int argc, char const *argv[]) {
   while (BLANK(ch)) {
     ch = skip(fp);
   }
-//test
