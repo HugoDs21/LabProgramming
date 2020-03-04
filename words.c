@@ -43,8 +43,4 @@ int main(int argc, char const *argv[]) {
   while (BLANK(ch)) {
     ch = skip(fp);
   }
-
-  fclose(fp);
-  printf("%d\n", words);
-  return 0;
-}
+//test
